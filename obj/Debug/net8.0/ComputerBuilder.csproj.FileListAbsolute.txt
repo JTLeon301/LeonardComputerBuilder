@@ -1,0 +1,14 @@
+C:\Users\jtleo\CPSC-23000-001\ComputerBuilder\bin\Debug\net8.0\ComputerBuilder.exe
+C:\Users\jtleo\CPSC-23000-001\ComputerBuilder\bin\Debug\net8.0\ComputerBuilder.deps.json
+C:\Users\jtleo\CPSC-23000-001\ComputerBuilder\bin\Debug\net8.0\ComputerBuilder.runtimeconfig.json
+C:\Users\jtleo\CPSC-23000-001\ComputerBuilder\bin\Debug\net8.0\ComputerBuilder.dll
+C:\Users\jtleo\CPSC-23000-001\ComputerBuilder\bin\Debug\net8.0\ComputerBuilder.pdb
+C:\Users\jtleo\CPSC-23000-001\ComputerBuilder\obj\Debug\net8.0\ComputerBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jtleo\CPSC-23000-001\ComputerBuilder\obj\Debug\net8.0\ComputerBuilder.AssemblyInfoInputs.cache
+C:\Users\jtleo\CPSC-23000-001\ComputerBuilder\obj\Debug\net8.0\ComputerBuilder.AssemblyInfo.cs
+C:\Users\jtleo\CPSC-23000-001\ComputerBuilder\obj\Debug\net8.0\ComputerBuilder.csproj.CoreCompileInputs.cache
+C:\Users\jtleo\CPSC-23000-001\ComputerBuilder\obj\Debug\net8.0\ComputerBuilder.dll
+C:\Users\jtleo\CPSC-23000-001\ComputerBuilder\obj\Debug\net8.0\refint\ComputerBuilder.dll
+C:\Users\jtleo\CPSC-23000-001\ComputerBuilder\obj\Debug\net8.0\ComputerBuilder.pdb
+C:\Users\jtleo\CPSC-23000-001\ComputerBuilder\obj\Debug\net8.0\ComputerBuilder.genruntimeconfig.cache
+C:\Users\jtleo\CPSC-23000-001\ComputerBuilder\obj\Debug\net8.0\ref\ComputerBuilder.dll
